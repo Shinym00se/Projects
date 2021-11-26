@@ -1,0 +1,15 @@
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\PI to the nth digit\bin\Debug\net6.0\PI to the nth digit.exe
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\PI to the nth digit\bin\Debug\net6.0\PI to the nth digit.deps.json
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\PI to the nth digit\bin\Debug\net6.0\PI to the nth digit.runtimeconfig.json
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\PI to the nth digit\bin\Debug\net6.0\PI to the nth digit.dll
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\PI to the nth digit\bin\Debug\net6.0\ref\PI to the nth digit.dll
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\PI to the nth digit\bin\Debug\net6.0\PI to the nth digit.pdb
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\PI to the nth digit\obj\Debug\net6.0\PI to the nth digit.csproj.AssemblyReference.cache
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\PI to the nth digit\obj\Debug\net6.0\PI to the nth digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\PI to the nth digit\obj\Debug\net6.0\PI to the nth digit.AssemblyInfoInputs.cache
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\PI to the nth digit\obj\Debug\net6.0\PI to the nth digit.AssemblyInfo.cs
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\PI to the nth digit\obj\Debug\net6.0\PI to the nth digit.csproj.CoreCompileInputs.cache
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\PI to the nth digit\obj\Debug\net6.0\PI to the nth digit.dll
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\PI to the nth digit\obj\Debug\net6.0\ref\PI to the nth digit.dll
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\PI to the nth digit\obj\Debug\net6.0\PI to the nth digit.pdb
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\PI to the nth digit\obj\Debug\net6.0\PI to the nth digit.genruntimeconfig.cache
