@@ -1,0 +1,15 @@
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\CostofTile\bin\Debug\net6.0\CostofTile.exe
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\CostofTile\bin\Debug\net6.0\CostofTile.deps.json
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\CostofTile\bin\Debug\net6.0\CostofTile.runtimeconfig.json
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\CostofTile\bin\Debug\net6.0\CostofTile.dll
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\CostofTile\bin\Debug\net6.0\ref\CostofTile.dll
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\CostofTile\bin\Debug\net6.0\CostofTile.pdb
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\CostofTile\obj\Debug\net6.0\CostofTile.csproj.AssemblyReference.cache
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\CostofTile\obj\Debug\net6.0\CostofTile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\CostofTile\obj\Debug\net6.0\CostofTile.AssemblyInfoInputs.cache
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\CostofTile\obj\Debug\net6.0\CostofTile.AssemblyInfo.cs
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\CostofTile\obj\Debug\net6.0\CostofTile.csproj.CoreCompileInputs.cache
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\CostofTile\obj\Debug\net6.0\CostofTile.dll
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\CostofTile\obj\Debug\net6.0\ref\CostofTile.dll
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\CostofTile\obj\Debug\net6.0\CostofTile.pdb
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\CostofTile\obj\Debug\net6.0\CostofTile.genruntimeconfig.cache
