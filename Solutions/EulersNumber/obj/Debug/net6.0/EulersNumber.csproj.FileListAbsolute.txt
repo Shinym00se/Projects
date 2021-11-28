@@ -1,0 +1,15 @@
+C:\Users\travi\Source\Repos\Shinym00se\Projects\Solutions\EulersNumber\bin\Debug\net6.0\EulersNumber.exe
+C:\Users\travi\Source\Repos\Shinym00se\Projects\Solutions\EulersNumber\bin\Debug\net6.0\EulersNumber.deps.json
+C:\Users\travi\Source\Repos\Shinym00se\Projects\Solutions\EulersNumber\bin\Debug\net6.0\EulersNumber.runtimeconfig.json
+C:\Users\travi\Source\Repos\Shinym00se\Projects\Solutions\EulersNumber\bin\Debug\net6.0\EulersNumber.dll
+C:\Users\travi\Source\Repos\Shinym00se\Projects\Solutions\EulersNumber\bin\Debug\net6.0\ref\EulersNumber.dll
+C:\Users\travi\Source\Repos\Shinym00se\Projects\Solutions\EulersNumber\bin\Debug\net6.0\EulersNumber.pdb
+C:\Users\travi\Source\Repos\Shinym00se\Projects\Solutions\EulersNumber\obj\Debug\net6.0\EulersNumber.csproj.AssemblyReference.cache
+C:\Users\travi\Source\Repos\Shinym00se\Projects\Solutions\EulersNumber\obj\Debug\net6.0\EulersNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\travi\Source\Repos\Shinym00se\Projects\Solutions\EulersNumber\obj\Debug\net6.0\EulersNumber.AssemblyInfoInputs.cache
+C:\Users\travi\Source\Repos\Shinym00se\Projects\Solutions\EulersNumber\obj\Debug\net6.0\EulersNumber.AssemblyInfo.cs
+C:\Users\travi\Source\Repos\Shinym00se\Projects\Solutions\EulersNumber\obj\Debug\net6.0\EulersNumber.csproj.CoreCompileInputs.cache
+C:\Users\travi\Source\Repos\Shinym00se\Projects\Solutions\EulersNumber\obj\Debug\net6.0\EulersNumber.dll
+C:\Users\travi\Source\Repos\Shinym00se\Projects\Solutions\EulersNumber\obj\Debug\net6.0\ref\EulersNumber.dll
+C:\Users\travi\Source\Repos\Shinym00se\Projects\Solutions\EulersNumber\obj\Debug\net6.0\EulersNumber.pdb
+C:\Users\travi\Source\Repos\Shinym00se\Projects\Solutions\EulersNumber\obj\Debug\net6.0\EulersNumber.genruntimeconfig.cache

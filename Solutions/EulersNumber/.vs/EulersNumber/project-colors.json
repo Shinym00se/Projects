@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2eccb482-05d4-4917-bd56-b502a806c933": {
+      "ProjectGuid": "2eccb482-05d4-4917-bd56-b502a806c933",
+      "DisplayName": "EulersNumber",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
