@@ -6,7 +6,6 @@ namespace FibonacciRecursive
 {
     public class Program
     {
-        private static double m;
 
         static void Main(string[] args)
         {
