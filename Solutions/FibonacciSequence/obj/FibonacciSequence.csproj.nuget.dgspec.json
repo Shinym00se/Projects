@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\travi\\source\\repos\\Shinym00se\\Projects\\Solutions\\EulersNumber\\EulersNumber.csproj": {}
+    "C:\\Users\\travi\\source\\repos\\Shinym00se\\Projects\\Solutions\\FibonacciSequence\\FibonacciSequence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\travi\\source\\repos\\Shinym00se\\Projects\\Solutions\\EulersNumber\\EulersNumber.csproj": {
+    "C:\\Users\\travi\\source\\repos\\Shinym00se\\Projects\\Solutions\\FibonacciSequence\\FibonacciSequence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\travi\\source\\repos\\Shinym00se\\Projects\\Solutions\\EulersNumber\\EulersNumber.csproj",
-        "projectName": "EulersNumber",
-        "projectPath": "C:\\Users\\travi\\source\\repos\\Shinym00se\\Projects\\Solutions\\EulersNumber\\EulersNumber.csproj",
+        "projectUniqueName": "C:\\Users\\travi\\source\\repos\\Shinym00se\\Projects\\Solutions\\FibonacciSequence\\FibonacciSequence.csproj",
+        "projectName": "FibonacciSequence",
+        "projectPath": "C:\\Users\\travi\\source\\repos\\Shinym00se\\Projects\\Solutions\\FibonacciSequence\\FibonacciSequence.csproj",
         "packagesPath": "C:\\Users\\travi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\travi\\source\\repos\\Shinym00se\\Projects\\Solutions\\EulersNumber\\obj\\",
+        "outputPath": "C:\\Users\\travi\\source\\repos\\Shinym00se\\Projects\\Solutions\\FibonacciSequence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\travi\\AppData\\Roaming\\NuGet\\NuGet.Config",

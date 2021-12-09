@@ -1,0 +1,15 @@
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\FibonacciSequence\bin\Debug\net6.0\FibonacciSequence.exe
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\FibonacciSequence\bin\Debug\net6.0\FibonacciSequence.deps.json
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\FibonacciSequence\bin\Debug\net6.0\FibonacciSequence.runtimeconfig.json
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\FibonacciSequence\bin\Debug\net6.0\FibonacciSequence.dll
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\FibonacciSequence\bin\Debug\net6.0\ref\FibonacciSequence.dll
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\FibonacciSequence\bin\Debug\net6.0\FibonacciSequence.pdb
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\FibonacciSequence\obj\Debug\net6.0\FibonacciSequence.csproj.AssemblyReference.cache
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\FibonacciSequence\obj\Debug\net6.0\FibonacciSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\FibonacciSequence\obj\Debug\net6.0\FibonacciSequence.AssemblyInfoInputs.cache
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\FibonacciSequence\obj\Debug\net6.0\FibonacciSequence.AssemblyInfo.cs
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\FibonacciSequence\obj\Debug\net6.0\FibonacciSequence.csproj.CoreCompileInputs.cache
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\FibonacciSequence\obj\Debug\net6.0\FibonacciSequence.dll
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\FibonacciSequence\obj\Debug\net6.0\ref\FibonacciSequence.dll
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\FibonacciSequence\obj\Debug\net6.0\FibonacciSequence.pdb
+C:\Users\travi\source\repos\Shinym00se\Projects\Solutions\FibonacciSequence\obj\Debug\net6.0\FibonacciSequence.genruntimeconfig.cache
